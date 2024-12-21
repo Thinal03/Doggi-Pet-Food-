@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Doggi</string>
+    <string name="navigation_drawer_open" />
+    <string name="navigation_drawer_close" />
+    <string-array name="roles">
+        <item>Seller</item>
+        <item>Buyer</item>
+    </string-array>
+</resources>
